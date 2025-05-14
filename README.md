@@ -10,7 +10,11 @@
 
 </div>
 
+<div align="center">
+
 ![背景](image/图片.png)
+
+</div>
 
 ![访客数](https://profile-counter.glitch.me/zhewang448/count.svg)
 
